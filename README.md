@@ -4,7 +4,7 @@
 
 I like turning messy data into clean structures that people can actually use: database design, SQL, data cleaning and dashboards that teams check every day.
 
-- 🏭 Former **Software Engineering Intern at Crane Payment Innovations (CPI)**: full-stack dashboards for production lines, SQL databases and stored procedures for daily KPIs.
+- 🏭 Former **Software Engineering Intern at Crane Payment Innovations (CPI)**: full-stack dashboards for production lines, querying and maintaining MySQL/Oracle databases and the stored procedure behind daily KPIs.
 - ☁️ **AWS Academy Graduate:** Cloud Foundations & Cloud Developing.
 - 🗣️ Professional English: outbound sales in a US-facing call center (~150 calls/day).
 - 📍 Querétaro, México · open to relocation.
